@@ -4,7 +4,6 @@ The capstone will build upon the knowledge you have gained in the course in orde
 
 # Run steps
 - docker run -v /Users/moonie/Workspaces/udacity_blockchain/Blockchain-Capstone/zokrates/code:/home/zokrates/code -ti zokrates/zokrates:0.5.0 /bin/bash
-- 
 
 # Project Resources
 
